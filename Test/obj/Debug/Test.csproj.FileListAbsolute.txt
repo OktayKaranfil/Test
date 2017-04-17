@@ -1,0 +1,8 @@
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\bin\Debug\WebDriver.dll
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\bin\Debug\WebDriver.xml
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\oktay.karanfil\documents\visual studio 2012\Projects\Test\Test\obj\Debug\Test.pdb
